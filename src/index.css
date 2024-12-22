@@ -8,3 +8,86 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+h1 {
+  margin: 0;
+  padding: 5px;
+  color: #bb1b03;
+  font-size: 2.1rem;
+}
+
+h1,
+table {
+  background-color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #212121;
+}
+
+#root {
+  background-color: white;
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 8px;
+  background-color: #fbf8f0;
+}
+#search {
+  width: 80%;
+  max-width: 300px;
+  margin: 20px auto 0 auto;
+}
+
+th {
+  text-align: left;
+  background-color: #bf1a09;
+  color: white;
+}
+
+table {
+  margin: 40px auto;
+  width: 100%;
+  border-collapse: collapse; /* Optional: Ensures borders collapse into one */
+}
+
+table tr:nth-child(1) {
+  border-radius: 100px;
+}
+
+table th,
+table td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ddd; /* Optional: Adds a border for visibility */
+}
+
+table td:nth-child(1),
+table th:nth-child(1) {
+  width: 7px; /* First column */
+}
+
+table td:nth-child(2),
+table th:nth-child(2) {
+  width: 250px; /* Second column */
+}
+
+table td:nth-child(3),
+table th:nth-child(3) {
+  width: 60px; /* Third column */
+}
+
+table td:nth-child(4),
+table th:nth-child(4) {
+  width: 90px; /* Second column */
+}
+@media screen and (max-width: 480px) {
+  #root {
+    margin: 0;
+    padding: 3px;
+  }
+  h1 {
+    font-size: 1.8rem;
+  }
+}

@@ -170,15 +170,14 @@ const ProductsList = () => {
   return (
     <div>
       {/* Search Input */}
-      <div>
-        <input
-          type="text"
-          placeholder="Search products..."
-          value={searchQuery}
-          onChange={handleSearchChange}
-          style={{ marginBottom: "20px", padding: "8px" }}
-        />
-      </div>
+      <input
+        id="search"
+        type="text"
+        placeholder="Search products..."
+        value={searchQuery}
+        onChange={handleSearchChange}
+        style={{ marginBottom: "20px", padding: "8px" }}
+      />
 
       {/* Price Change Filter (applies to all categories) */}
       <div>

@@ -1,0 +1,4 @@
+name = "noche-buena-price-guide"
+pages_build_output_dir = "./dist"
+compatibility_date = "2024-12-21"
+compatibility_flags = [ "nodejs_compat_v2" ]

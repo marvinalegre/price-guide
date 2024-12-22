@@ -734,6 +734,22 @@ createRoot(document.getElementById("root")).render(
     <>
       <h1>2024 Noche Buena Price Guide</h1>
       <ProductsList />
+      <footer>
+        <p>
+          developed by{" "}
+          <a href="https://marvinalegre.github.io">Marvin Alegre</a>, with the
+          help of{" "}
+          <a href="https://www.facebook.com/rafanankathleena">
+            Kathleen Rafanan
+          </a>{" "}
+          and chatgpt.
+        </p>
+        <p>
+          checkout the source code at{" "}
+          <a href="https://github.com/marvinalegre/price-guide">github</a>.
+        </p>
+        <p>source: DTI</p>
+      </footer>
     </>
   </StrictMode>,
 );

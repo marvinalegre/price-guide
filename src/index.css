@@ -85,6 +85,13 @@ table td:nth-child(4),
 table th:nth-child(4) {
   width: 90px; /* Second column */
 }
+footer {
+  color: gray;
+}
+
+footer a {
+  color: gray;
+}
 @media screen and (max-width: 480px) {
   #root {
     margin: 0;

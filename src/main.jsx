@@ -6,6 +6,7 @@ import "./index.css";
 import productsData from "./products.json";
 
 const ProductsList = () => {
+  const [showMessages, setShowMessages] = useState(true);
   // Initialize state for the categories and price change filter
   const [products, setProducts] = useState({
     HAM: [],
@@ -169,6 +170,57 @@ const ProductsList = () => {
 
   return (
     <div>
+      {showMessages && (
+        <div
+          style={{
+            margin: "20 40 0 40",
+            backgroundColor: "white",
+            padding: "20px",
+          }}
+        >
+          <h3>KONSYUMER TIPS:</h3>
+          <ol>
+            <li>
+              Ugaliing magkumpara, tingnan at suriin ang iba’t-ibang mga
+              pagpipilian bago bumili.
+            </li>
+            <li>
+              Palaging suriin ang mga label (hal. expiration date at price tag)
+              ng mga produkto bago bumili.
+            </li>
+            <li>
+              Suriin ang kalidad ng mga produkto upang maiwasan ang mga pekeng
+              Noche Buena items. Bumili sa mga pinagkakatiwalaang tindahan.
+            </li>
+            <li>Abangan ang mga produktong may diskwento at naka promo.</li>
+          </ol>
+
+          <h3>PAUNAWA:</h3>
+          <ul>
+            <li>
+              Ang Noche Buena Price Guide ay mayroong 236 na SKUs mula sa 20
+              manufacturers.
+            </li>
+            <li>
+              Ang mga presyong nakasaad dito ay suhestiyon ng manufacturers sa
+              supermarkets at groceries.
+            </li>
+            <li>Ang NB Price Guide ay epektibo hanggang 31 Disyembre 2024.</li>
+            <li>Ang mga presyo ng mga SKU na may markang 🎄 ay bumaba.</li>
+            <li>
+              Ang mga presyo ng mga SKU na may markang 🌟 ay nanatiling pareho
+              kumpara noong 2023.
+            </li>
+          </ul>
+          <button
+            onClick={() => setShowMessages(false)}
+            style={{ fontSize: "1rem" }}
+          >
+            close
+          </button>
+        </div>
+      )}
+
       {/* Search Input */}
       <input
         id="search"

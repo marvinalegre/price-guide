@@ -1,0 +1,1858 @@
+[
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "CDO American Ham",
+    "unit": "500g",
+    "price": 170,
+    "id": 1
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "PUREFOODS Brick Ham",
+    "unit": "500g",
+    "price": 172,
+    "id": 2
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "VIRGINIA Pear Shaped Ham",
+    "unit": "500g",
+    "price": 199,
+    "id": 3
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "VIRGINIA Pear Shaped Ham (SRP in Palawan)",
+    "unit": "500g",
+    "price": 204,
+    "id": 4
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "VIRGINIA Brick Ham",
+    "unit": "500g",
+    "price": 219,
+    "id": 5
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "VIRGINIA Brick Ham (SRP in Palawan)",
+    "unit": "500g",
+    "price": 224,
+    "id": 6
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "KING SUE Pear Shaped",
+    "unit": "700g",
+    "price": 237,
+    "id": 7
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "CDO Pear Shaped Ham",
+    "unit": "800g",
+    "price": 242,
+    "id": 8
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "PUREFOODS Pear Shaped Ham",
+    "unit": "800g",
+    "price": 244,
+    "id": 9
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "VIRGINIA Pear Shaped Ham",
+    "unit": "800g",
+    "price": 270,
+    "id": 10
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "VIRGINIA Pear Shaped Ham (SRP in Palawan)",
+    "unit": "800g",
+    "price": 278,
+    "id": 11
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "VIRGINIA Chicken Pear Shaped Ham",
+    "unit": "800g",
+    "price": 359,
+    "id": 12
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "VIRGINIA Chicken Pear Shaped Ham (SRP in Palawan)",
+    "unit": "800g",
+    "price": 367,
+    "id": 13
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "KING SUE Sweet Ham Whole Meat",
+    "unit": "800g",
+    "price": 449,
+    "id": 14
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "KING SUE Piña Ham Whole Meat",
+    "unit": "800g",
+    "price": 520,
+    "id": 15
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "CDO Jamon de Bola",
+    "unit": "850g",
+    "price": 323,
+    "id": 16
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "SWIFT Noche Buena Ham",
+    "unit": "1kg",
+    "price": 339,
+    "id": 17
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "KING SUE Hawaiian Ham Loaf (Promo Pack)",
+    "unit": "1kg",
+    "price": 345,
+    "id": 18
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "VIRGINIA Pear Shaped Ham",
+    "unit": "1kg",
+    "price": 345,
+    "id": 19
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "VIRGINIA Pear Shaped Ham (SRP in Palawan)",
+    "unit": "1kg",
+    "price": 355,
+    "id": 20
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "SWIFT Jamon de Bola",
+    "unit": "1kg",
+    "price": 368,
+    "id": 21
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "CDO Jamon de Bola Chicken",
+    "unit": "1kg",
+    "price": 373,
+    "id": 22
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "PUREFOODS Jamon de Bola",
+    "unit": "1kg",
+    "price": 375,
+    "id": 23
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "VIRGINIA Jamon de Bola",
+    "unit": "1kg",
+    "price": 399,
+    "id": 24
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "VIRGINIA Jamon de Bola (SRP in Palawan)",
+    "unit": "1kg",
+    "price": 409,
+    "id": 25
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "PUREFOODS Fiesta Ham Chicken",
+    "unit": "1kg",
+    "price": 475,
+    "id": 26
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "KING SUE Sweet Ham Whole Meat",
+    "unit": "1kg",
+    "price": 547,
+    "id": 27
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "SWIFT Festival Ham",
+    "unit": "1kg",
+    "price": 598,
+    "id": 28
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "VIRGINIA Seasons Delight",
+    "unit": "1kg",
+    "price": 599,
+    "id": 29
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "CDO Holiday Whole - Meat Ham",
+    "unit": "1kg",
+    "price": 609,
+    "id": 30
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "CDO Holiday Whole - Meat Ham (Pre-Sliced)",
+    "unit": "1kg",
+    "price": 609,
+    "id": 31
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "VIRGINIA Seasons Delight (SRP in Palawan)",
+    "unit": "1kg",
+    "price": 609,
+    "id": 32
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "PUREFOODS Fiesta Ham",
+    "unit": "1kg",
+    "price": 619,
+    "id": 33
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "KING SUE Piña Ham Whole Meat",
+    "unit": "1kg",
+    "price": 637,
+    "id": 34
+  },
+  {
+    "type": "HAM",
+    "priceChange": 1,
+    "name": "ROBINA Farms Premium Ham",
+    "unit": "1kg",
+    "price": 650,
+    "id": 35
+  },
+  {
+    "type": "HAM",
+    "priceChange": 0,
+    "name": "PUREFOODS Fiesta Ham",
+    "unit": "1.5kg",
+    "price": 928.5,
+    "id": 36
+  },
+  {
+    "type": "FRUIT COCKTAIL",
+    "priceChange": 0,
+    "name": "SEASONS Tropical Fruit Cocktail",
+    "unit": "432g",
+    "price": 61.76,
+    "id": 37
+  },
+  {
+    "type": "FRUIT COCKTAIL",
+    "priceChange": 0,
+    "name": "TODAY'S Mixed Fruits",
+    "unit": "432g",
+    "price": 62,
+    "id": 38
+  },
+  {
+    "type": "FRUIT COCKTAIL",
+    "priceChange": 0,
+    "name": "DOLE Tropical Fruit Cocktail",
+    "unit": "432g",
+    "price": 67.02,
+    "id": 39
+  },
+  {
+    "type": "FRUIT COCKTAIL",
+    "priceChange": 0,
+    "name": "DEL MONTE Fiesta in Extra Light Syrup",
+    "unit": "432g",
+    "price": 68.75,
+    "id": 40
+  },
+  {
+    "type": "FRUIT COCKTAIL",
+    "priceChange": 0,
+    "name": "SEASONS Tropical Fruit Cocktail",
+    "unit": "822g",
+    "price": 89.06,
+    "id": 41
+  },
+  {
+    "type": "FRUIT COCKTAIL",
+    "priceChange": 0,
+    "name": "DOLE Tropical Fruit Cocktail",
+    "unit": "822g",
+    "price": 90.85,
+    "id": 42
+  },
+  {
+    "type": "FRUIT COCKTAIL",
+    "priceChange": 0,
+    "name": "TODAY'S Mixed Fruits",
+    "unit": "836g",
+    "price": 90,
+    "id": 43
+  },
+  {
+    "type": "FRUIT COCKTAIL",
+    "priceChange": 0,
+    "name": "DEL MONTE Fiesta in Extra Light Syrup",
+    "unit": "836g",
+    "price": 91,
+    "id": 44
+  },
+  {
+    "type": "FRUIT COCKTAIL",
+    "priceChange": 0,
+    "name": "TODAY'S Mixed Fruits",
+    "unit": "3033g",
+    "price": 263.5,
+    "id": 45
+  },
+  {
+    "type": "FRUIT COCKTAIL",
+    "priceChange": 0,
+    "name": "DEL MONTE Fiesta in Extra Light Syrup",
+    "unit": "3033g",
+    "price": 302.5,
+    "id": 46
+  },
+  {
+    "type": "FRUIT COCKTAIL",
+    "priceChange": 0,
+    "name": "SEASONS Tropical Fruit Cocktail",
+    "unit": "3.06kg",
+    "price": 270.18,
+    "id": 47
+  },
+  {
+    "type": "FRUIT COCKTAIL",
+    "priceChange": 0,
+    "name": "DOLE Tropical Fruit Cocktail",
+    "unit": "3.06kg",
+    "price": 299.62,
+    "id": 48
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 1,
+    "name": "EDEN Original",
+    "unit": "160g",
+    "price": 56.5,
+    "id": 49
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 1,
+    "name": "EDEN Meltsarap",
+    "unit": "160g",
+    "price": 95,
+    "id": 50
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 1,
+    "name": "EDEN Cheddar Cheese",
+    "unit": "160g",
+    "price": 100,
+    "id": 51
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 0,
+    "name": "OK Filled Cheese Spread",
+    "unit": "200g",
+    "price": 49.75,
+    "id": 52
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 0,
+    "name": "QUES - O Cheese Food",
+    "unit": "200g",
+    "price": 60.95,
+    "id": 53
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 0,
+    "name": "QBB Cheese Food",
+    "unit": "200g",
+    "price": 73,
+    "id": 54
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 0,
+    "name": "CHE - VITAL Cheese Food",
+    "unit": "200g",
+    "price": 79.05,
+    "id": 55
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 0,
+    "name": "CHE - VITAL Cheese Quickmelt",
+    "unit": "200g",
+    "price": 84.8,
+    "id": 56
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 1,
+    "name": "EDEN Original",
+    "unit": "430g",
+    "price": 145,
+    "id": 57
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 1,
+    "name": "EDEN Cheddar Cheese",
+    "unit": "430g",
+    "price": 225,
+    "id": 58
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 1,
+    "name": "EDEN Meltsarap",
+    "unit": "430g",
+    "price": 240,
+    "id": 59
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 0,
+    "name": "OK Filled Cheese Spread",
+    "unit": "500g",
+    "price": 124.5,
+    "id": 60
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 0,
+    "name": "QUES - O Cheese Food",
+    "unit": "500g",
+    "price": 151.8,
+    "id": 61
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 0,
+    "name": "CHE - VITAL Cheese Food",
+    "unit": "500g",
+    "price": 197.2,
+    "id": 62
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 0,
+    "name": "CHE - VITAL Cheese Quickmelt",
+    "unit": "500g",
+    "price": 211.9,
+    "id": 63
+  },
+  {
+    "type": "CHEESE",
+    "priceChange": 1,
+    "name": "EDEN Original",
+    "unit": "900g",
+    "price": 310,
+    "id": 64
+  },
+  {
+    "type": "KESO DE BOLA",
+    "priceChange": 1,
+    "name": "QUES - O De Bola",
+    "unit": "300g",
+    "price": 211.6,
+    "id": 65
+  },
+  {
+    "type": "KESO DE BOLA",
+    "priceChange": 1,
+    "name": "DANES Queso de Bola",
+    "unit": "350g",
+    "price": 210,
+    "id": 66
+  },
+  {
+    "type": "KESO DE BOLA",
+    "priceChange": 1,
+    "name": "MAGNOLIA Queso De Bola",
+    "unit": "350g",
+    "price": 210,
+    "id": 67
+  },
+  {
+    "type": "KESO DE BOLA",
+    "priceChange": 1,
+    "name": "MAGNOLIA Gold Edam Cheeseball",
+    "unit": "350g",
+    "price": 350,
+    "id": 68
+  },
+  {
+    "type": "KESO DE BOLA",
+    "priceChange": 1,
+    "name": "MAGNOLIA Queso De Bola",
+    "unit": "500g",
+    "price": 295,
+    "id": 69
+  },
+  {
+    "type": "KESO DE BOLA",
+    "priceChange": 1,
+    "name": "DANES Queso de Bola",
+    "unit": "500g",
+    "price": 310,
+    "id": 70
+  },
+  {
+    "type": "KESO DE BOLA",
+    "priceChange": 1,
+    "name": "QUES - O De Bola",
+    "unit": "500g",
+    "price": 349.3,
+    "id": 71
+  },
+  {
+    "type": "KESO DE BOLA",
+    "priceChange": 1,
+    "name": "CHE - VITAL Cheese Ball",
+    "unit": "500g",
+    "price": 365.7,
+    "id": 72
+  },
+  {
+    "type": "KESO DE BOLA",
+    "priceChange": 1,
+    "name": "DANES Edam Cheese Ball",
+    "unit": "500g",
+    "price": 440,
+    "id": 73
+  },
+  {
+    "type": "KESO DE BOLA",
+    "priceChange": 1,
+    "name": "MAGNOLIA Gold Edam Cheeseball",
+    "unit": "500g",
+    "price": 445,
+    "id": 74
+  },
+  {
+    "type": "KESO DE BOLA",
+    "priceChange": 1,
+    "name": "DANES Queso de Bola",
+    "unit": "750g",
+    "price": 335,
+    "id": 75
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 3,
+    "name": "BEST FOODS Regular Mayonnaise Mayo Magic",
+    "unit": "80ml (SACHET)",
+    "price": 20.4,
+    "id": 76
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 3,
+    "name": "MAGNOLIA Real Mayonnaise",
+    "unit": "80ml (POUCH)",
+    "price": 30.5,
+    "id": 77
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 2,
+    "name": "LADY'S CHOICE Regular Mayonnaise",
+    "unit": "80ml (SACHET)",
+    "price": 34.65,
+    "id": 78
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 2,
+    "name": "EDEN Mayo",
+    "unit": "80ml (SACHET)",
+    "price": 35,
+    "id": 79
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 3,
+    "name": "BEST FOODS Regular Mayonnaise Mayo Magic",
+    "unit": "220ml (DOY)",
+    "price": 55,
+    "id": 80
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 2,
+    "name": "EDEN Mayo",
+    "unit": "220ml (POUCH)",
+    "price": 95,
+    "id": 81
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 2,
+    "name": "LADY'S CHOICE Regular Mayonnaise",
+    "unit": "220ml (DOY)",
+    "price": 95.2,
+    "id": 82
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 2,
+    "name": "BEST FOOD Regular Mayonnaise",
+    "unit": "220ml (DOY)",
+    "price": 124.75,
+    "id": 83
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 2,
+    "name": "EDEN Mayo",
+    "unit": "220ml (JAR)",
+    "price": 110.6,
+    "id": 84
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 2,
+    "name": "LADY'S CHOICE Regular Mayonnaise",
+    "unit": "220ml (JAR)",
+    "price": 121.3,
+    "id": 85
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 3,
+    "name": "BEST FOOD Regular Mayo Magic",
+    "unit": "470ml (DOY)",
+    "price": 107.6,
+    "id": 86
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 2,
+    "name": "LADY'S CHOICE Regular Mayonnaise",
+    "unit": "470ml (DOY)",
+    "price": 199.55,
+    "id": 87
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 2,
+    "name": "EDEN Mayo",
+    "unit": "470ml (JAR)",
+    "price": 220,
+    "id": 88
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 2,
+    "name": "LADY'S CHOICE Regular Mayonnaise",
+    "unit": "470ml (JAR)",
+    "price": 245.85,
+    "id": 89
+  },
+  {
+    "type": "MAYONNAISE",
+    "priceChange": 3,
+    "name": "BEST FOODS Regular Mayonnaise Mayo Magic",
+    "unit": "700ml (JAR)",
+    "price": 159.9,
+    "id": 90
+  },
+  {
+    "type": "ALL PURPOSE CREAM",
+    "priceChange": 1,
+    "name": "MAGNOLIA All Purpose Cream",
+    "unit": "110ml",
+    "price": 36.5,
+    "id": 91
+  },
+  {
+    "type": "ALL PURPOSE CREAM",
+    "priceChange": 1,
+    "name": "NESTLE All Purpose Cream",
+    "unit": "125ml",
+    "price": 40,
+    "id": 92
+  },
+  {
+    "type": "ALL PURPOSE CREAM",
+    "priceChange": 1,
+    "name": "ALASKA Crema",
+    "unit": "135ml",
+    "price": 36,
+    "id": 93
+  },
+  {
+    "type": "ALL PURPOSE CREAM",
+    "priceChange": 2,
+    "name": "ANGEL All Purpose Creamer",
+    "unit": "250ml",
+    "price": 45,
+    "id": 94
+  },
+  {
+    "type": "ALL PURPOSE CREAM",
+    "priceChange": 1,
+    "name": "ALASKA Crema",
+    "unit": "250ml",
+    "price": 64,
+    "id": 95
+  },
+  {
+    "type": "ALL PURPOSE CREAM",
+    "priceChange": 1,
+    "name": "MAGNOLIA All Purpose Cream",
+    "unit": "250ml",
+    "price": 65,
+    "id": 96
+  },
+  {
+    "type": "ALL PURPOSE CREAM",
+    "priceChange": 0,
+    "name": "NESTLE All Purpose Cream",
+    "unit": "250ml",
+    "price": 72,
+    "id": 97
+  },
+  {
+    "type": "ALL PURPOSE CREAM",
+    "priceChange": 0,
+    "name": "ANGEL All Purpose Creamer",
+    "unit": "370ml",
+    "price": 55.5,
+    "id": 98
+  },
+  {
+    "type": "ALL PURPOSE CREAM",
+    "priceChange": 1,
+    "name": "ANGEL Kremqueso",
+    "unit": "370ml",
+    "price": 69,
+    "id": 99
+  },
+  {
+    "type": "ALL PURPOSE CREAM",
+    "priceChange": 1,
+    "name": "ANGEL Kremdensada",
+    "unit": "410ml",
+    "price": 59.95,
+    "id": 100
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "CHEEZ WHIZ Original",
+    "unit": "60g (SACHET)",
+    "price": 29.5,
+    "id": 101
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "BEST FOOD Sandwich Spread",
+    "unit": "80ml (SACHET)",
+    "price": 27,
+    "id": 102
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "LADY'S CHOICE Sandwich Spread",
+    "unit": "80ml (SACHET)",
+    "price": 34.35,
+    "id": 103
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "EDEN Sandwich Spread",
+    "unit": "80ml (SACHET)",
+    "price": 38,
+    "id": 104
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "LADY'S CHOICE Sandwich Spread (CHICKEN / HAM / BACON / TUNA)",
+    "unit": "80ml (SACHET)",
+    "price": 38,
+    "id": 105
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "CHEEZ WHIZ Original",
+    "unit": "105g (POUCH)",
+    "price": 45.5,
+    "id": 106
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "CHEEZ WHIZ Pimiento",
+    "unit": "105g (POUCH)",
+    "price": 49,
+    "id": 107
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "CHEEZ WHIZ Original",
+    "unit": "200g (POUCH)",
+    "price": 84,
+    "id": 108
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "CHEEZ WHIZ Pimiento",
+    "unit": "200g (POUCH)",
+    "price": 89.5,
+    "id": 109
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "CHEEZ WHIZ Original",
+    "unit": "210g (JAR)",
+    "price": 95.5,
+    "id": 110
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "CHEEZ WHIZ Pimiento",
+    "unit": "210g (JAR)",
+    "price": 100,
+    "id": 111
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "BEST FOOD Sandwich Spread",
+    "unit": "220ml (DOY)",
+    "price": 75.15,
+    "id": 112
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "EDEN Sandwich Spread",
+    "unit": "220ml (POUCH)",
+    "price": 80,
+    "id": 113
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "LADY'S CHOICE Sandwich Spread",
+    "unit": "220ml (DOY)",
+    "price": 80.2,
+    "id": 114
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "LADY'S CHOICE Sandwich Spread (CHICKEN / HAM)",
+    "unit": "220ml (DOY)",
+    "price": 102.95,
+    "id": 115
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "EDEN Sandwich Spread",
+    "unit": "220ml (JAR)",
+    "price": 92,
+    "id": 116
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "LADY'S CHOICE Sandwich Spread",
+    "unit": "220ml (JAR)",
+    "price": 98.85,
+    "id": 117
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "LADY'S CHOICE Sandwich Spread (CHICKEN / HAM / BACON / TUNA)",
+    "unit": "220ml (JAR)",
+    "price": 131.8,
+    "id": 118
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "CHEEZ WHIZ Original",
+    "unit": "440g (JAR)",
+    "price": 185,
+    "id": 119
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "CHEEZ WHIZ Pimiento",
+    "unit": "440g (JAR)",
+    "price": 190,
+    "id": 120
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "LADY'S CHOICE Sandwich Spread",
+    "unit": "470ml (DOY)",
+    "price": 162.75,
+    "id": 121
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "LADY'S CHOICE Sandwich Spread (CHICKEN / HAM)",
+    "unit": "470ml (DOY)",
+    "price": 211.95,
+    "id": 122
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "EDEN Sandwich Spread",
+    "unit": "470ml (JAR)",
+    "price": 185,
+    "id": 123
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "LADY'S CHOICE Sandwich Spread",
+    "unit": "470ml (JAR)",
+    "price": 199.85,
+    "id": 124
+  },
+  {
+    "type": "SANDWICH SPREAD",
+    "priceChange": 1,
+    "name": "LADY'S CHOICE Sandwich Spread (CHICKEN / HAM / BACON / TUNA)",
+    "unit": "470ml (JAR)",
+    "price": 263.6,
+    "id": 125
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 0,
+    "name": "DEL MONTE Spaghetti",
+    "unit": "175g",
+    "price": 32,
+    "id": 126
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 1,
+    "name": "AMIGO SEGURADO Spaghetti",
+    "unit": "200g",
+    "price": 25.5,
+    "id": 127
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 0,
+    "name": "SUNSHINE Pinoy Spaghetti",
+    "unit": "250g",
+    "price": 30,
+    "id": 128
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 2,
+    "name": "EL REAL Spaghetti",
+    "unit": "400g",
+    "price": 40.75,
+    "id": 129
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 1,
+    "name": "AMIGO SEGURADO Spaghetti",
+    "unit": "400g",
+    "price": 42,
+    "id": 130
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 0,
+    "name": "SUNSHINE Pinoy Spaghetti",
+    "unit": "400g",
+    "price": 45.25,
+    "id": 131
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 0,
+    "name": "FIESTA Spaghetti",
+    "unit": "400g",
+    "price": 47,
+    "id": 132
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 1,
+    "name": "LA FILIPINA Spaghetti",
+    "unit": "400g",
+    "price": 54,
+    "id": 133
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 0,
+    "name": "ROYAL Premium Spaghetti",
+    "unit": "400g",
+    "price": 63.5,
+    "id": 134
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 0,
+    "name": "DEL MONTE Spaghetti",
+    "unit": "400g",
+    "price": 64.5,
+    "id": 135
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 0,
+    "name": "IDEAL GOURMET Spaghetti",
+    "unit": "500g",
+    "price": 68.5,
+    "id": 136
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 1,
+    "name": "BALDUCCI Spaghetti",
+    "unit": "500g",
+    "price": 69,
+    "id": 137
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 1,
+    "name": "SAN REMO Spaghetti",
+    "unit": "500g",
+    "price": 90,
+    "id": 138
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 2,
+    "name": "EL REAL Spaghetti",
+    "unit": "800g",
+    "price": 74.25,
+    "id": 139
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 0,
+    "name": "FIESTA Spaghetti",
+    "unit": "800g",
+    "price": 81,
+    "id": 140
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 1,
+    "name": "AMIGO SEGURADO Spaghetti",
+    "unit": "850g",
+    "price": 83,
+    "id": 141
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 0,
+    "name": "SUNSHINE Pinoy Spaghetti",
+    "unit": "900g",
+    "price": 80.75,
+    "id": 142
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 1,
+    "name": "LA FILIPINA Spaghetti",
+    "unit": "900g",
+    "price": 90,
+    "id": 143
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 1,
+    "name": "ROYAL Premium Spaghetti",
+    "unit": "900g",
+    "price": 105,
+    "id": 144
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 0,
+    "name": "DEL MONTE Spaghetti",
+    "unit": "900g",
+    "price": 114,
+    "id": 145
+  },
+  {
+    "type": "PASTA SPAGHETTI",
+    "priceChange": 0,
+    "name": "IDEAL GOURMET Spaghetti",
+    "unit": "1kg",
+    "price": 110.25,
+    "id": 146
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 1,
+    "name": "AMIGO SEGURADO Elbow Macaroni",
+    "unit": "200g",
+    "price": 23,
+    "id": 147
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 2,
+    "name": "EL REAL Elbow",
+    "unit": "200g",
+    "price": 24.75,
+    "id": 148
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 0,
+    "name": "FIESTA Elbow Macaroni",
+    "unit": "200g",
+    "price": 30.5,
+    "id": 149
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 0,
+    "name": "ROYAL Premium Elbow Macaroni",
+    "unit": "200g",
+    "price": 36.5,
+    "id": 150
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 0,
+    "name": "DEL MONTE Elbow Macaroni",
+    "unit": "200g",
+    "price": 46.5,
+    "id": 151
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 1,
+    "name": "AMIGO SEGURADO Elbow Macaroni",
+    "unit": "400g",
+    "price": 39.8,
+    "id": 152
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 2,
+    "name": "EL REAL Elbow Macaroni",
+    "unit": "400g",
+    "price": 40.95,
+    "id": 153
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 0,
+    "name": "SUNSHINE Elbow Macaroni",
+    "unit": "400g",
+    "price": 44,
+    "id": 154
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 1,
+    "name": "FIESTA Elbow Macaroni",
+    "unit": "400g",
+    "price": 45.5,
+    "id": 155
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 0,
+    "name": "ROYAL Premium Elbow Macaroni",
+    "unit": "400g",
+    "price": 66,
+    "id": 156
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 0,
+    "name": "DEL MONTE Elbow Macaroni",
+    "unit": "400g",
+    "price": 74.75,
+    "id": 157
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 0,
+    "name": "IDEAL GOURMET Elbow Macaroni",
+    "unit": "500g",
+    "price": 68.5,
+    "id": 158
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 1,
+    "name": "AMIGO SEGURADO Elbow Macaroni",
+    "unit": "900g",
+    "price": 86,
+    "id": 159
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 2,
+    "name": "EL REAL Elbow Macaroni",
+    "unit": "1kg",
+    "price": 82.75,
+    "id": 160
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 1,
+    "name": "FIESTA Elbow Macaroni",
+    "unit": "1kg",
+    "price": 87,
+    "id": 161
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 0,
+    "name": "SUNSHINE Elbow Macaroni",
+    "unit": "1kg",
+    "price": 89.25,
+    "id": 162
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 0,
+    "name": "ROYAL Premium Elbow Macaroni",
+    "unit": "1kg",
+    "price": 110,
+    "id": 163
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 0,
+    "name": "IDEAL GOURMET Elbow Macaroni",
+    "unit": "1kg",
+    "price": 113.75,
+    "id": 164
+  },
+  {
+    "type": "ELBOW MACARONI",
+    "priceChange": 0,
+    "name": "DEL MONTE Elbow Macaroni",
+    "unit": "1kg",
+    "price": 126.25,
+    "id": 165
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 1,
+    "name": "ROYAL Premium Salad Macaroni",
+    "unit": "200g",
+    "price": 36.5,
+    "id": 166
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 2,
+    "name": "EL REAL Salad Macaroni",
+    "unit": "400g",
+    "price": 43,
+    "id": 167
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 0,
+    "name": "SUNSHINE Salad Macaroni",
+    "unit": "400g",
+    "price": 44,
+    "id": 168
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 1,
+    "name": "FIESTA Salad Macaroni",
+    "unit": "400g",
+    "price": 45.5,
+    "id": 169
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 1,
+    "name": "LA FILIPINA Salad Macaroni",
+    "unit": "400g",
+    "price": 63.5,
+    "id": 170
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 0,
+    "name": "ROYAL Premium Salad Macaroni",
+    "unit": "400g",
+    "price": 66,
+    "id": 171
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 0,
+    "name": "DEL MONTE Salad Macaroni",
+    "unit": "400g",
+    "price": 74.75,
+    "id": 172
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 0,
+    "name": "IDEAL GOURMET Salad Macaroni",
+    "unit": "500g",
+    "price": 68.5,
+    "id": 173
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 2,
+    "name": "EL REAL Salad Macaroni",
+    "unit": "1kg",
+    "price": 82.75,
+    "id": 174
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 0,
+    "name": "FIESTA Salad Macaroni",
+    "unit": "1kg",
+    "price": 89,
+    "id": 175
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 0,
+    "name": "SUNSHINE Salad Macaroni",
+    "unit": "1kg",
+    "price": 89.25,
+    "id": 176
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 0,
+    "name": "ROYAL Premium Salad Macaroni",
+    "unit": "1kg",
+    "price": 110,
+    "id": 177
+  },
+  {
+    "type": "SALAD MACARONI",
+    "priceChange": 0,
+    "name": "DEL MONTE Salad Macaron",
+    "unit": "1kg",
+    "price": 126.25,
+    "id": 178
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 0,
+    "name": "HUNT'S Tomato Sauce",
+    "unit": "115g",
+    "price": 16.5,
+    "id": 179
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 1,
+    "name": "UFC Tomato Sauce",
+    "unit": "115g",
+    "price": 17.25,
+    "id": 180
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Original Style",
+    "unit": "115g",
+    "price": 19.15,
+    "id": 181
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Filipino Style",
+    "unit": "200g",
+    "price": 20.7,
+    "id": 182
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 1,
+    "name": "UFC Tomato Sauce",
+    "unit": "200g",
+    "price": 22.25,
+    "id": 183
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Original Style",
+    "unit": "200g",
+    "price": 24.2,
+    "id": 184
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 1,
+    "name": "AMIGO SEGURADO Tomato Sauce",
+    "unit": "250g",
+    "price": 21,
+    "id": 185
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Filipino Style",
+    "unit": "250g",
+    "price": 24.2,
+    "id": 186
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Original Style",
+    "unit": "250g",
+    "price": 27.55,
+    "id": 187
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Filipino Style",
+    "unit": "900g",
+    "price": 83.8,
+    "id": 188
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Original Style",
+    "unit": "900g",
+    "price": 92.85,
+    "id": 189
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 1,
+    "name": "AMIGO SEGURADO Tomato Sauce",
+    "unit": "1kg",
+    "price": 70,
+    "id": 190
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 0,
+    "name": "HUNT'S Tomato Sauce",
+    "unit": "1kg",
+    "price": 80,
+    "id": 191
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 1,
+    "name": "CLARA OLE Tomato Sauce",
+    "unit": "1kg",
+    "price": 85.75,
+    "id": 192
+  },
+  {
+    "type": "TOMATO SAUCE",
+    "priceChange": 1,
+    "name": "UFC Tomato Sauce",
+    "unit": "1kg",
+    "price": 92.25,
+    "id": 193
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Carbonara",
+    "unit": "200g",
+    "price": 39.95,
+    "id": 194
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "AMIGO SEGURADO - Italian Style",
+    "unit": "250g",
+    "price": 23.55,
+    "id": 195
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "AMIGO SEGURADO - Sweet Blend Style",
+    "unit": "250g",
+    "price": 23.55,
+    "id": 196
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "UFC Spaghetti Sauce",
+    "unit": "250g",
+    "price": 28.5,
+    "id": 197
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "HUNT'S Parmesan",
+    "unit": "250g",
+    "price": 29.75,
+    "id": 198
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Filipino Style",
+    "unit": "250g",
+    "price": 34.5,
+    "id": 199
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Italian Style",
+    "unit": "250g",
+    "price": 37.5,
+    "id": 200
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Sweet Style",
+    "unit": "250g",
+    "price": 37.5,
+    "id": 201
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Carbonara",
+    "unit": "400g",
+    "price": 75.25,
+    "id": 202
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "SUNSHINE Sweet Style",
+    "unit": "500g",
+    "price": 52,
+    "id": 203
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "UFC Spaghetti Sauce",
+    "unit": "500g",
+    "price": 52.5,
+    "id": 204
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "FIESTA Sweet Blend",
+    "unit": "500g",
+    "price": 55.5,
+    "id": 205
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Filipino Style",
+    "unit": "500g",
+    "price": 62.25,
+    "id": 206
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Italian Style",
+    "unit": "500g",
+    "price": 69.25,
+    "id": 207
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Sweet Style",
+    "unit": "500g",
+    "price": 69.25,
+    "id": 208
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Creamy & Cheese",
+    "unit": "500g",
+    "price": 70.75,
+    "id": 209
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "AMIGO SEGURADO - Sweet Blend Style",
+    "unit": "850g",
+    "price": 71.5,
+    "id": 210
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "TODAY'S Spaghetti Sauce",
+    "unit": "900g",
+    "price": 70.75,
+    "id": 211
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "AMIGO SEGURADO - Italian Style",
+    "unit": "900g",
+    "price": 71.5,
+    "id": 212
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "SUNSHINE Pinoy Style",
+    "unit": "900g",
+    "price": 89.25,
+    "id": 213
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "FIESTA 3 Cheese Sauce",
+    "unit": "900g",
+    "price": 90,
+    "id": 214
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "FIESTA Sweet Blend Sauce",
+    "unit": "900g",
+    "price": 90,
+    "id": 215
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Filipino Style",
+    "unit": "900g",
+    "price": 92.95,
+    "id": 216
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "ROYAL 4 Cheese Sauce",
+    "unit": "900g",
+    "price": 97,
+    "id": 217
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "ROYAL Filipino Style",
+    "unit": "900g",
+    "price": 97,
+    "id": 218
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "ROYAL Sweet Style",
+    "unit": "900g",
+    "price": 97,
+    "id": 219
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Italian Style",
+    "unit": "900g",
+    "price": 99.5,
+    "id": 220
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Sweet Style",
+    "unit": "900g",
+    "price": 99.5,
+    "id": 221
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "DEL MONTE Creamy & Cheese",
+    "unit": "900g",
+    "price": 100.5,
+    "id": 222
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "HUNT'S Pinoy Party",
+    "unit": "1kg",
+    "price": 81,
+    "id": 223
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "UFC Spaghetti Sauce",
+    "unit": "1kg",
+    "price": 85,
+    "id": 224
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "HUNT'S Basil and Cheese",
+    "unit": "1kg",
+    "price": 85.7,
+    "id": 225
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "HUNT'S Parmesan",
+    "unit": "1kg",
+    "price": 85.7,
+    "id": 226
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "SUNSHINE Sweet Style",
+    "unit": "1kg",
+    "price": 92.4,
+    "id": 227
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 0,
+    "name": "IDEAL GOURMET Sweet Style",
+    "unit": "1kg",
+    "price": 96.6,
+    "id": 228
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "CLARA OLE Filipino Style",
+    "unit": "1kg",
+    "price": 97.25,
+    "id": 229
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "CLARA OLE Italian Style",
+    "unit": "1kg",
+    "price": 103,
+    "id": 230
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "CLARA OLE Sweet Style",
+    "unit": "1kg",
+    "price": 103,
+    "id": 231
+  },
+  {
+    "type": "SPAGHETTI SAUCE",
+    "priceChange": 1,
+    "name": "CLARA OLE Three Cheese Style",
+    "unit": "1kg",
+    "price": 103,
+    "id": 232
+  }
+]
